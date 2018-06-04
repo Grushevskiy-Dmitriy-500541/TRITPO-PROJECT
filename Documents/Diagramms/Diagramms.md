@@ -1,8 +1,12 @@
 # Диаграммы #
 
-1.![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/activity.png)
+## Diagramm ##
 
-2.![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/classdiagramm.png)
+![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/activity.png)
+
+## Diagramm ##
+
+![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/classdiagramm.png)
 
 ![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/components.png)
 ![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/deployment.png)
