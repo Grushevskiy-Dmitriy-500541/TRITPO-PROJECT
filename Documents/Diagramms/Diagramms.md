@@ -14,7 +14,7 @@
 
 ## Diagramm ##
 
-![diagram]()
+![diagram](https://github.com/Grushevskiy-Dmitriy-500541/Tritpo-project/blob/master/Documents/Diagramms/deployment.png)
 
 ## Diagramm ##
 
